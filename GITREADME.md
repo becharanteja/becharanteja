@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @becharanteja
 - 👀 I’m interested in PCB Designing
 - 🌱 I’m currently learning PCB Design
-- 💞️ I’m looking to collaborate on ...PCB Design Softwares
+- 💞️ I’m looking to collaborate on ...PCB Design Softwares and Jobs
 - 📫 How to reach me ... becharanteja@gmail.com
 
 <!---
