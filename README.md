@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @becharanteja
-- 👀 I’m interested in PCB Designing.
-- 🌱 I’m currently learning Altium Designer, KiCAD.
-- 💞️ I’m looking to collaborate on PCB Designer jobs.
-- 📫 How to reach me on gmail becharanteja@gmail.com
+- 👀 I’m working as a DFT Intern in Juntran Technologies, Hyderabad.
+- Currently I'm learning basics in DFT.
+- - 📫 How to reach me on gmail becharanteja@gmail.com
 
 <!---
 becharanteja/becharanteja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
